@@ -1,0 +1,2 @@
+new rainbow
+new VIBGYOR
