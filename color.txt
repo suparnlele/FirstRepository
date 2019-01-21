@@ -4,6 +4,7 @@ white
 addition in branch 1
 addition in branch after merge 1
 addition in branch 2
+addition in master after merge2
 green
 blue
 black
