@@ -3,6 +3,7 @@ yellow
 white
 addition in branch 1
 addition in branch after merge 1
+addition in branch 2
 green
 blue
 black
