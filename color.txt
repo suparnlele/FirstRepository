@@ -9,4 +9,5 @@ addition in branch 2 after merge 2
 green
 blue
 black
+black 2 added in master after merge 3
 addition in branch 1
